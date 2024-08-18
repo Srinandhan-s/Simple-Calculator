@@ -1,7 +1,5 @@
 ### **Preview**
 
-[![Calculator Screenshot](https://srinandhan-s.github.io/Simple-Calculator/)
-
 **Live Demo:** [Click here to view the calculator in action](https://srinandhan-s.github.io/Simple-Calculator/)
 
 Explore the fully functional web-based calculator that performs basic arithmetic operations. The clean, responsive interface ensures seamless interaction across devices.
