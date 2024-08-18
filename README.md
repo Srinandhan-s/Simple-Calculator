@@ -6,7 +6,7 @@ Explore the fully functional web-based calculator that performs basic arithmetic
 ### **Code**
 
 #### **HTML**
-```html
+```heeeetml
 <div class="calculator">
   <input type="text" class="display" disabled />
   <div class="buttons">
