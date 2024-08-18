@@ -1,2 +1,3 @@
-# Simple-Calculator
-A simple, responsive web-based calculator built with HTML5, CSS3, and JavaScript. It supports basic arithmetic operations (addition, subtraction, multiplication, division), real-time display updates, keyboard input, and features a clean, intuitive design for seamless user interaction.
+Live Demo: Click here to view the calculator in action.
+
+Explore the fully functional web-based calculator that performs basic arithmetic operations. The clean, responsive interface ensures seamless interaction across devices.
