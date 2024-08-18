@@ -4,6 +4,8 @@
 
 Explore the fully functional web-based calculator that performs basic arithmetic operations. The clean, responsive interface ensures seamless interaction across devices.
 
+### **Code**
+
 #### **HTML**
 ```html
 <!DOCTYPE html>
@@ -154,7 +156,6 @@ function calculateResult() {
 - **HTML:** Defines the structure of the calculator interface.
 - **CSS:** Manages the styling to ensure a clean and responsive design.
 - **JavaScript:** Implements functionality for arithmetic operations and user interactions.
-### **Code**
 
 
 
