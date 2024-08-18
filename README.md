@@ -149,6 +149,7 @@ function calculateResult() {
         display.innerText = 'Error';
     }
 }
+
 ### **Blame**
 
 - **HTML:** Defines the structure of the calculator interface.
