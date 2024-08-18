@@ -43,6 +43,9 @@ Explore the fully functional web-based calculator that performs basic arithmetic
     <script src="script.js"></script>
 </body>
 </html>
+```
+### **CSS**
+```css
 body {
     display: flex;
     justify-content: center;
@@ -119,6 +122,10 @@ body {
 .function:hover, .operator:hover, .equals:hover {
     opacity:    0.8;
 }
+```
+### **JavaScript**
+
+```javascript
 function clearDisplay() {
     document.getElementById('display').innerText = '0';
 }
